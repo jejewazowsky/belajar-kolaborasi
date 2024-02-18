@@ -1,4 +1,5 @@
 # belajar-kolaborasi
-1
-2
-3
+
+Belajar Github di Dicoding sangat menyenangkan.<br>
+Mendokumentasikan dengan GitHub menjadi lebih mudah.
+Manajemen kode menjadi lebih mudah berkat GitHub
